@@ -17,8 +17,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\..\A_EFCore\Lab_EF07\AutoLot.Dal\AutoLot.Dal.csproj" />
-	  <ProjectReference Include="..\..\..\A_EFCore\Lab_EF07\AutoLot.Models\AutoLot.Models.csproj" />
+		<ProjectReference Include="..\..\..\A_EFCore\Lab_EF07\AutoLot.Dal\AutoLot.Dal.csproj" />
+		<ProjectReference Include="..\..\..\A_EFCore\Lab_EF07\AutoLot.Models\AutoLot.Models.csproj" />
 	</ItemGroup>
 
 	<PropertyGroup>
